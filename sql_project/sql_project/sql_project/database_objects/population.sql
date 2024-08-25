@@ -2,9 +2,6 @@ USE Bodegas;
 
 SET GLOBAL local_infile = true;
 
-
--- NO TENES NINGUNA BODEGA!! 
--- CREAMOS 4 para dar como ejemplo --> por favor corregir esto
 INSERT INTO BODEGAS (NOMBRE, UBICACION, TELEFONO, EMAIL)
 VALUES ('Bodega A', 'Ubicación A', '123-456-7890', 'contactoA@example.com');
 INSERT INTO BODEGAS (NOMBRE, UBICACION, TELEFONO, EMAIL)
@@ -66,24 +63,6 @@ VALUES
 (1, 'Garnacha Old Vines', 'Garnacha', 2017, 38, 400, 13);
 
 
--- ESTO ESTA MAL POR QUE NO EXISTEN ESTAS BODEGAS!!! 
--- INSERT INTO EMPLEADOS (IDEMPLEADOS, IDBODEGAS, NOMBRE, PUESTO, EMAIL, TELEFONO, FECHA_INGRESO) VALUES
--- (1, 16, 'Laura Pérez', 'Gerente', 'laura.perez@bodega.com', '123-456-789', '2022-01-15'),
--- (2, 17, 'Mario Gómez', 'Sommelier', 'mario.gomez@bodega.com', '234-567-890', '2021-06-10'),
--- (3, 18, 'Ana Ruiz', 'Vendedor', 'ana.ruiz@bodega.com', '345-678-901', '2023-03-22'),
--- (4, 19, 'Carlos Fernández', 'Administrador', 'carlos.fernandez@bodega.com', '456-789-012', '2020-11-05'),
--- (5, 20, 'Marta López', 'Encargada de Almacén', 'marta.lopez@bodega.com', '567-890-123', '2022-09-14'),
--- (6, 21, 'Luis Martínez', 'Cajero', 'luis.martinez@bodega.com', '678-901-234', '2021-12-20'),
--- (7, 22, 'Isabel Torres', 'Asistente de Ventas', 'isabel.torres@bodega.com', '789-012-345', '2023-07-17'),
--- (8, 23, 'Javier Jiménez', 'Marketing', 'javier.jimenez@bodega.com', '890-123-456', '2021-05-30'),
--- (9, 24,'Beatriz García', 'Contadora', 'beatriz.garcia@bodega.com', '901-234-567', '2022-04-25'),
--- (10, 25, 'Francisco Díaz', 'Logística', 'francisco.diaz@bodega.com', '012-345-678', '2020-08-19'),
--- (11, 26,'Patricia Morales', 'Atención al Cliente', 'patricia.morales@bodega.com', '123-456-790', '2022-10-02'),
--- (12, 27,'Sergio Romero', 'Técnico de Bodega', 'sergio.romero@bodega.com', '234-567-891', '2023-02-15'),
--- (13, 28,'Verónica Sánchez', 'Encargada de Compras', 'veronica.sanchez@bodega.com', '345-678-902', '2021-09-08'),
--- (14, 29,'Roberto Castillo', 'Control de Calidad', 'roberto.castillo@bodega.com', '456-789-013', '2022-12-18'),
--- (15, 30,'Carolina Moreno', 'Asistente Administrativo', 'carolina.moreno@bodega.com', '567-890-124', '2023-01-11');
-
 INSERT INTO EMPLEADOS (IDBODEGAS, NOMBRE, PUESTO, EMAIL, TELEFONO)
 VALUES 
 (1, 'María García', 'Enólogo', 'maria.garcia@bodega1.com', '+34 600 123 456'),
@@ -106,20 +85,20 @@ VALUES
 ('Club de Vinos Enófilo', 'CLU005', '+44 20 7946 0123', 'members@enofiloclub.co.uk');
 
 
--- LOS VINOS VAN HASTA EL 10 por eso se recorta
+CHEQUEAR ACA!!!
 INSERT INTO PROMOCIONES (IDPROMOCIONES, IDVINOS, NOMBRE, DESCRIPCION, FECHA_INICIO, FECHA_FIN, DESCUENTO) VALUES
-(1, 4, 'Descuento de Verano', '20% de descuento en vinos blancos', '2024-06-01', '2024-08-31', 20.00),
-(2, 5, 'Oferta de Fin de Año', 'Compra 2 botellas, lleva la 3ra gratis', '2024-12-01', '2024-12-31', 33.33),
-(3, 6, 'Vino del Mes', '15% de descuento en el vino del mes', '2024-07-01', '2024-07-31', 15.00),
-(4, 7, 'Descuento de Navidad', '10% de descuento en todos los vinos', '2024-12-01', '2024-12-25', 10.00),
-(5, 8, 'Promoción Anual', '25% de descuento en vinos de reserva', '2024-01-01', '2024-12-31', 25.00),
-(6, 9, 'Happy Hour', '5% de descuento en compras realizadas entre 18:00 y 20:00', '2024-07-01', '2024-07-31', 5.00),
-(7, 10, 'Oferta del Sommelier', '30% de descuento en vinos recomendados por el sommelier', '2024-07-01', '2024-07-31', 30.00),
-(8, 11, 'Pack Familiar', 'Compra un pack familiar con 3 vinos diferentes con un 20% de descuento', '2024-07-01', '2024-07-31', 20.00),
-(9, 12, 'Día del Vino', '10% de descuento en compras superiores a $100', '2024-07-15', '2024-07-15', 10.00),
-(10, 13, 'Especial de Octubre', '10% de descuento en todos los vinos tintos', '2024-10-01', '2024-10-31', 10.00),
-(11, 14, 'Descuento de Año Nuevo', '15% de descuento en cualquier compra superior a $150', '2024-12-26', '2024-12-31', 15.00),
-(12, 15, 'Oferta de Primavera', '20% de descuento en vinos rosados', '2024-03-01', '2024-05-31', 20.00);
+(1, 'Descuento de Verano', '20% de descuento en vinos blancos', '2024-06-01', '2024-08-31', 20.00),
+(2, 'Oferta de Fin de Año', 'Compra 2 botellas, lleva la 3ra gratis', '2024-12-01', '2024-12-31', 33.33),
+(3, 'Vino del Mes', '15% de descuento en el vino del mes', '2024-07-01', '2024-07-31', 15.00),
+(4, 'Descuento de Navidad', '10% de descuento en todos los vinos', '2024-12-01', '2024-12-25', 10.00),
+(5, 'Promoción Anual', '25% de descuento en vinos de reserva', '2024-01-01', '2024-12-31', 25.00),
+(6, 'Happy Hour', '5% de descuento en compras realizadas entre 18:00 y 20:00', '2024-07-01', '2024-07-31', 5.00),
+(7, 'Oferta del Sommelier', '30% de descuento en vinos recomendados por el sommelier', '2024-07-01', '2024-07-31', 30.00),
+(8, 'Pack Familiar', 'Compra un pack familiar con 3 vinos diferentes con un 20% de descuento', '2024-07-01', '2024-07-31', 20.00),
+(9, 'Día del Vino', '10% de descuento en compras superiores a $100', '2024-07-15', '2024-07-15', 10.00),
+(10,'Especial de Octubre', '10% de descuento en todos los vinos tintos', '2024-10-01', '2024-10-31', 10.00),
+
+
 
 INSERT INTO VENTAS (IDCLIENTES, IDVINOS, CANTIDAD, PRECIO_TOTAL, FECHA)
 VALUES 
