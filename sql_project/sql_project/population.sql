@@ -1,5 +1,7 @@
 USE Bodegas;
 
+SET GLOBAL local_infile = true;
+
 
 -- NO TENES NINGUNA BODEGA!! 
 -- CREAMOS 4 para dar como ejemplo --> por favor corregir esto
