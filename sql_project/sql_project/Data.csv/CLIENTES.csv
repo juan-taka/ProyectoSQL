@@ -1,5 +1,3 @@
-USE Bodegas;
-
 IDCLIENTES,NOMBRE,REFERENCIA,TELEFONO,EMAIL
 1,Juan Pérez,Cliente A,555-2001,juan.perez@ejemplo.com
 2,Marta Gómez,Cliente B,555-2002,marta.gomez@ejemplo.com
