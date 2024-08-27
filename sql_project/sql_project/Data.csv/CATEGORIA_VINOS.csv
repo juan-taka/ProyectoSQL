@@ -1,5 +1,3 @@
-USE Bodegas;
-
 IDCATEGORIA_VINOS,IDVINOS,NOMBRE,DESCRIPCION
 1,1,Gran Reserva,Vino de alta calidad envejecido en barricas
 2,2,Reserva,Tradicionalmente envejecido en barricas de roble
