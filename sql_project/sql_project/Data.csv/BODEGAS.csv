@@ -1,5 +1,3 @@
-USE Bodegas;
-
 IDBODEGAS,IDEMPLEADOS,NOMBRE,UBICACION,TELEFONO,EMAIL
 1,1,Bodega Central,Calle Principal 123,555-0101,contacto@bodegacentral.com
 2,2,Bodega Norte,Avenida Norte 456,555-0102,info@bodeganorte.com
