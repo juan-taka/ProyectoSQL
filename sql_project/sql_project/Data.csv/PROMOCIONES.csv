@@ -1,5 +1,3 @@
-USE Bodegas;
-
 IDPROMOCIONES,IDVINOS,NOMBRE,DESCRIPCION,FECHA_INICIO,FECHA_FIN,DESCUENTO
 1,1,Descuento Primavera,20% de descuento en Gran Reserva,2024-03-01 00:00:00,2024-05-31,20%
 2,2,Oferta Verano,15% en Vino del Valle durante el verano,2024-06-01 00:00:00,2024-08-31,15%
