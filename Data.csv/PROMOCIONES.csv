@@ -1,0 +1,18 @@
+USE Bodegas;
+
+IDPROMOCIONES,IDVINOS,NOMBRE,DESCRIPCION,FECHA_INICIO,FECHA_FIN,DESCUENTO
+1,1,Descuento Primavera,20% de descuento en Gran Reserva,2024-03-01 00:00:00,2024-05-31,20%
+2,2,Oferta Verano,15% en Vino del Valle durante el verano,2024-06-01 00:00:00,2024-08-31,15%
+3,3,Descuento Blanco Joven,10% en Blancos Joven por tiempo limitado,2024-07-01 00:00:00,2024-09-30,10%
+4,4,Promoción Rosado Especial,25% de descuento en Rosado Especial,2024-08-01 00:00:00,2024-10-15,25%
+5,5,Malbec Premium,30% en Malbec Premium hasta fin de año,2024-09-01 00:00:00,2024-12-31,30%
+6,6,Clásico Rioja en Oferta,20% en Clásico Rioja,2024-10-01 00:00:00,2024-12-31,20%
+7,7,Oferta Cabernet Sauvignon,15% en Cabernet Sauvignon,2024-11-01 00:00:00,2024-12-31,15%
+8,8,Chardonnay Elegante,10% de descuento en Chardonnay Elegante,2024-12-01 00:00:00,2024-12-31,10%
+9,9,Tempranillo Joven,20% en Tempranillo Joven,2024-05-01 00:00:00,2024-07-31,20%
+10,10,Pinot Noir Reserva,25% de descuento en Pinot Noir Reserva,2024-09-01 00:00:00,2024-11-30,25%
+11,11,Shiraz Intensivo,10% en Shiraz Intensivo,2024-06-01 00:00:00,2024-08-31,10%
+12,12,Albariño Fresco,15% de descuento en Albariño Fresco,2024-07-01 00:00:00,2024-09-30,15%
+13,13,Rosado Syrah,20% en Rosado Syrah,2024-08-01 00:00:00,2024-10-31,20%
+14,14,Malbec Clásico,10% en Malbec Clásico,2024-10-01 00:00:00,2024-12-31,10%
+15,15,Viura Joven,15% en Viura Joven,2024-11-01 00:00:00,2024-12-31,15%

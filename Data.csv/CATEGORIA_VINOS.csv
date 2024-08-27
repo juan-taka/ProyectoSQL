@@ -1,0 +1,18 @@
+USE Bodegas;
+
+IDCATEGORIA_VINOS,IDVINOS,NOMBRE,DESCRIPCION
+1,1,Gran Reserva,Vino de alta calidad envejecido en barricas
+2,2,Reserva,Tradicionalmente envejecido en barricas de roble
+3,3,Blanco Joven,Vino blanco fresco y afrutado
+4,4,Rosado Especial,Rosado con notas frutales y bouquet elegante
+5,5,Malbec Premium,Malbec de calidad superior con gran cuerpo
+6,6,Clásico Rioja,Tempranillo con características tradicionales
+7,7,Cabernet Sauvignon Reserva,Vino tinto con cuerpo y notas a madera
+8,8,Chardonnay Elegante,Chardonnay con notas de frutas tropicales
+9,9,Tempranillo Joven,Tinto joven con sabor fresco y afrutado
+10,10,Pinot Noir Reserva,Pinot Noir de alta gama con notas de cereza
+11,11,Shiraz Intensivo,Shiraz con sabor intenso y especias
+12,12,Albariño Fresco,Vino blanco con notas cítricas y frescura
+13,13,Syrah Rosado,Rosado con notas de frutas rojas y frescura
+14,14,Malbec Clásico,Malbec con características robustas y afrutadas
+15,15,Viura Joven,Vino blanco joven con notas frescas y ligeras

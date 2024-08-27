@@ -1,0 +1,18 @@
+USe Bodegas;
+
+IDVINOS,IDBODEGAS,NOMBRE,VARIEDAD,ANIO,PRECIO,CANTIDAD,IDCATEGORIA_VINOS
+1,1,Gran Reserva,Tempranillo,2015,120,50,1
+2,2,Vino del Valle,Merlot,2018,85,30,2
+3,3,Blanco de la Casa,Sauvignon Blanc,2020,75,40,3
+4,4,Rosado Especial,Garnacha,2019,95,20,1
+5,5,Reserva Noble,Malbec,2017,110,35,2
+6,6,Clásico Rioja,Viura,2016,100,45,3
+7,7,Gran Cosecha,Cabernet Sauvignon,2014,130,25,1
+8,8,Vino de Bodega,Chardonnay,2021,90,60,2
+9,9,Tempranillo Joven,Tempranillo,2022,70,50,3
+10,10,Reserva Elegante,Pinot Noir,2013,140,15,1
+11,11,Vino del Año,Shiraz,2018,125,30,2
+12,12,Blanco Premium,Albariño,2019,80,55,3
+13,13,Rosado Fino,Syrah,2020,85,40,1
+14,14,Malbec Premium,Malbec,2016,115,20,2
+15,15,Viura Clásico,Viura,2021,70,65,3

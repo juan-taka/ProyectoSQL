@@ -1,0 +1,18 @@
+USE Bodegas;
+
+IDCLIENTES,NOMBRE,REFERENCIA,TELEFONO,EMAIL
+1,Juan Pérez,Cliente A,555-2001,juan.perez@ejemplo.com
+2,Marta Gómez,Cliente B,555-2002,marta.gomez@ejemplo.com
+3,Andrés Martínez,Cliente C,555-2003,andres.martinez@ejemplo.com
+4,Lucía Fernández,Cliente D,555-2004,lucia.fernandez@ejemplo.com
+5,Carlos López,Cliente E,555-2005,carlos.lopez@ejemplo.com
+6,Laura Rodríguez,Cliente F,555-2006,laura.rodriguez@ejemplo.com
+7,Diego Torres,Cliente G,555-2007,diego.torres@ejemplo.com
+8,Ana Sánchez,Cliente H,555-2008,ana.sanchez@ejemplo.com
+9,Pedro Jiménez,Cliente I,555-2009,pedro.jimenez@ejemplo.com
+10,Claudia Morales,Cliente J,555-2010,claudia.morales@ejemplo.com
+11,Sergio Vargas,Cliente K,555-2011,sergio.vargas@ejemplo.com
+12,Elena Castro,Cliente L,555-2012,elena.castro@ejemplo.com
+13,Marcelo Ruiz,Cliente M,555-2013,marcelo.ruiz@ejemplo.com
+14,Isabel Muñoz,Cliente N,555-2014,isabel.munoz@ejemplo.com
+15,Tomás Ortega,Cliente O,555-2015,tomas.ortega@ejemplo.com

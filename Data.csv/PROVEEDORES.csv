@@ -1,0 +1,18 @@
+USE Bodegas;
+
+IDPROVEEDORES,NOMBREPROVEEDOR,TELEFONO,UBICACION,TARIFA,EMAIL
+1,Proveedores ABC,555-1001,Calle Falsa 123,500,contacto@proveedoresabc.com
+2,Proveedores XYZ,555-1002,Avenida Central 456,600,info@proveedoresxyz.com
+3,Distribuciones El Rey,555-1003,Calle del Rey 789,550,ventas@distroelrey.com
+4,Soluciones Globales,555-1004,Avenida Global 101,650,atencion@solucionesglobales.com
+5,Productos y Más,555-1005,Calle Productos 202,700,soporte@productosymas.com
+6,Servicios Prime,555-1006,Avenida Prime 303,620,contacto@serviciosprime.com
+7,Comercial La Estrella,555-1007,Calle Estrella 404,580,info@comercialestrella.com
+8,Proveedor El Sol,555-1008,Avenida Sol 505,630,ventas@proveedorelsol.com
+9,Logística Total,555-1009,Calle Logística 606,590,atencion@logisticatotal.com
+10,Red Proveedores,555-1010,Avenida Red 707,610,soporte@redproveedores.com
+11,Importaciones Delta,555-1011,Calle Delta 808,650,contacto@importacionesdelta.com
+12,Proveedor Plus,555-1012,Avenida Plus 909,670,info@proveedorplus.com
+13,Red Comercial,555-1013,Calle Comercial 1010,640,ventas@redcomercial.com
+14,Servicios y Proveeduría,555-1014,Avenida Servicios 1111,620,atencion@serviciosyproveeduria.com
+15,Proveedores del Norte,555-1015,Calle Norte 1212,690,soporte@proveedoresdelnorte.com

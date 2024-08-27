@@ -1,0 +1,18 @@
+USE Bodegas;
+
+IDEMPLEADOS,IDBODEGAS,NOMBRE,PUESTO,EMAIL,TELEFONO,FECHA_INGRESO
+1,1,Juan Pérez,Gerente,juan.perez@bodega1.com,555-0101,2024-01-15 08:30:00
+2,1,Marta Gómez,Asistente,marta.gomez@bodega1.com,555-0102,2024-02-20 09:00:00
+3,2,Andrés Martínez,Sommelier,andres.martinez@bodega2.com,555-0103,2024-03-10 10:15:00
+4,2,Lucía Fernández,Encargada,lucia.fernandez@bodega2.com,555-0104,2024-04-05 11:00:00
+5,3,Carlos López,Vendedor,carlos.lopez@bodega3.com,555-0105,2024-05-22 12:00:00
+6,3,Laura Rodríguez,Administrativo,laura.rodriguez@bodega3.com,555-0106,2024-06-17 13:30:00
+7,4,Diego Torres,Supervisor,diego.torres@bodega4.com,555-0107,2024-07-01 14:45:00
+8,4,Ana Sánchez,Logística,ana.sanchez@bodega4.com,555-0108,2024-08-12 15:00:00
+9,5,Pedro Jiménez,Contador,pedro.jimenez@bodega5.com,555-0109,2024-09-09 16:00:00
+10,5,Claudia Morales,Recursos Humanos,claudia.morales@bodega5.com,555-0110,2024-10-21 17:15:00
+11,6,Sergio Vargas,Gerente de Ventas,sergio.vargas@bodega6.com,555-0111,2024-11-05 08:00:00
+12,6,Elena Castro,Asistente de Ventas,elena.castro@bodega6.com,555-0112,2024-12-15 09:30:00
+13,7,Marcelo Ruiz,Marketing,marcelo.ruiz@bodega7.com,555-0113,2024-01-10 10:45:00
+14,7,Isabel Muñoz,Especialista en Producto,isabel.munoz@bodega7.com,555-0114,2024-02-22 11:00:00
+15,8,Tomás Ortega,Director General,tomas.ortega@bodega8.com,555-0115,2024-03-30 12:30:00

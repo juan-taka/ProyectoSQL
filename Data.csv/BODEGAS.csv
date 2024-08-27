@@ -1,0 +1,18 @@
+USE Bodegas;
+
+IDBODEGAS,IDEMPLEADOS,NOMBRE,UBICACION,TELEFONO,EMAIL
+1,1,Bodega Central,Calle Principal 123,555-0101,contacto@bodegacentral.com
+2,2,Bodega Norte,Avenida Norte 456,555-0102,info@bodeganorte.com
+3,3,Bodega Sur,Calle Sur 789,555-0103,ventas@bodegasur.com
+4,4,Bodega Este,Avenida Este 101,555-0104,atencion@bodegaeste.com
+5,5,Bodega Oeste,Calle Oeste 202,555-0105,soporte@bodegaoeste.com
+6,6,Bodega La Paz,Calle La Paz 303,555-0106,contacto@bodegalapaz.com
+7,7,Bodega El Sol,Avenida Sol 404,555-0107,info@bodegaelsol.com
+8,8,Bodega Río,Calle Río 505,555-0108,ventas@bodegario.com
+9,9,Bodega Mar,Avenida Mar 606,555-0109,atencion@bodegamar.com
+10,10,Bodega Sierra,Calle Sierra 707,555-0110,soporte@bodegasierra.com
+11,11,Bodega Valle,Avenida Valle 808,555-0111,contacto@bodegavalley.com
+12,12,Bodega Cielo,Calle Cielo 909,555-0112,info@bodegacielo.com
+13,13,Bodega Luna,Avenida Luna 1010,555-0113,ventas@bodegaluna.com
+14,14,Bodega Estrella,Calle Estrella 1111,555-0114,atencion@bodegaestrella.com
+15,15,Bodega Horizonte,Avenida Horizonte 1212,555-0115,soporte@bodegahorizonte.com
