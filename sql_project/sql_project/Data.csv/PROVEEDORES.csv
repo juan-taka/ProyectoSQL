@@ -1,5 +1,3 @@
-USE Bodegas;
-
 IDPROVEEDORES,NOMBREPROVEEDOR,TELEFONO,UBICACION,TARIFA,EMAIL
 1,Proveedores ABC,555-1001,Calle Falsa 123,500,contacto@proveedoresabc.com
 2,Proveedores XYZ,555-1002,Avenida Central 456,600,info@proveedoresxyz.com
